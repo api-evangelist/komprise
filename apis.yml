@@ -1,8 +1,27 @@
 aid: komprise
 name: Komprise
-description: Komprise is a company surfaced as a portfolio company of canaan-partners and added to the
-  API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: Komprise is an unstructured data management company whose Intelligent Data Management platform
+  analyzes, tiers, migrates and governs file and object data across NAS, cloud and object storage. The
+  platform spans Komprise Analysis, Elastic Data Migration, Transparent Move Technology, Smart Data Workflows,
+  the Global Metadatabase Service, KAPPA Data Services and Transparent File Tables, giving enterprises
+  a single metadata layer for discovery, classification, sensitive-data detection, ransomware-attack-surface
+  reduction, intelligent tiering and AI data preparation. Komprise publishes an llms.txt bot-access and
+  content policy at www.komprise.com/llms.txt, but its product documentation portal at docs.komprise.com
+  is authentication-gated and no public REST API reference, OpenAPI description, SDK or package was found
+  on any public registry as of this enrichment pass.
 url: https://raw.githubusercontent.com/api-evangelist/komprise/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://www.komprise.com/wp-content/uploads/Komprise-Donut-Transparent-bg-schedule-a-demo.png
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -11,12 +30,48 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
+- Unstructured Data Management
+- Data Management
+- Data Migration
+- Cloud Storage
+- Data Governance
+- Data Classification
+- Storage
+- AI Data
 apis: []
+common:
+- type: Website
+  url: https://www.komprise.com/
+- type: Documentation
+  url: https://docs.komprise.com/
+- type: Support
+  url: https://www.komprise.com/support/
+- type: HelpCenter
+  url: https://komprise.freshdesk.com/support/home
+- type: Blog
+  url: https://www.komprise.com/blog/
+- type: PrivacyPolicy
+  url: https://www.komprise.com/privacy/
+- type: GitHubOrganization
+  url: https://github.com/Komprise
+- type: Login
+  url: https://docs.komprise.com/user/login
+- type: LLMsTxt
+  url: llms/komprise-llms.txt
+- type: WellKnown
+  url: well-known/komprise-well-known.yml
+- type: DomainSecurity
+  url: security/komprise-domain-security.yml
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
