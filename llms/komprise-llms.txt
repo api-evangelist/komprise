@@ -1,0 +1,206 @@
+# Komprise | Unstructured Data Management | AI Data Workflows
+
+> Komprise is the leader in unstructured data management. Analyze, tier, migrate, unlock data value. Optimize storage costs. AI data ingestion.
+
+## Full Content
+- [Full Content](https://www.komprise.com/llms-full.txt): Complete blog posts, articles, and resources
+
+## Languages supported
+English, Deutch
+
+## Main Navigation Links
+- [Home](https://www.komprise.com/)
+- [Why Komprise](https://www.komprise.com/why-komprise/)
+- [Partners](https://www.komprise.com/partners/)
+- [Resources](https://www.komprise.com/resource/)
+- [Demo](https://www.komprise.com/schedule-a-demo/)
+
+## Key pages
+- [Intelligent Data Management](https://www.komprise.com/product/intelligent-data-management/): Full platform overview
+- [Global Metadatabase](https://www.komprise.com/product/global-metadatabase/): Metadata and orchestration layer
+- [KAPPA data services](https://www.komprise.com/product/kappa-data-services/): Serverless metadata extraction
+- [Smart Data Workflows](https://www.komprise.com/product/smart-data-workflows/): AI data pipeline automation
+- [Flash Stretch Assessment](https://www.komprise.com/use-cases/flash-stretch/): Cold data savings assessment
+
+## Products
+- [Intelligent Data Management](https://www.komprise.com/product/intelligent-data-management/)
+- [Elastic Data Migration](https://www.komprise.com/product/elastic-data-migration/)
+- [Komprise Analysis](https://www.komprise.com/product/analysis/)
+- [Architecture](https://www.komprise.com/product/architecture/)
+- [Data Storage Integrations](https://www.komprise.com/product/integrations/)
+- [Komprise Data Experience KDX](https://www.komprise.com/kdx-komprise-data-experience/)
+- [KAPPA Data Services](https://www.komprise.com/product/kappa-data-services/)
+- [Global Metadatabase Service](https://www.komprise.com/product/global-metadatabase/)
+- [Data Security & Compliance](https://www.komprise.com/product/data-security-compliance/)
+- [Smart Data Workflows for AI](https://www.komprise.com/product/smart-data-workflows/)
+- [Transparent File Tables] (https://www.komprise.com/product/transparent-file-tables/)
+- [Transparent Move Technology] (https://www.komprise.com/product/transparent-move-technology/)
+
+## Why Komprise
+- [Global Visibility Across Storage Silos](https://www.komprise.com/why-komprise/)
+- [AI Data Workflows with Governance](https://www.komprise.com/use-cases/ai-data-workflows/)
+- [Transparent Tiering, No Switching Costs](https://www.komprise.com/use-cases/transparent-move-technology/)
+- [Shrink the Ransomware Attack Surface](https://www.komprise.com/use-cases/ransomware-protection/)
+- [25x Faster Migrations, 1/3 the Cost](https://www.komprise.com/smart-data-migration/)
+
+## Solutions
+- [AI Data Workflows](https://www.komprise.com/use-cases/ai-data-workflows/)
+- [AI Ready Data](https://www.komprise.com/use-cases/enable-ai-big-data/)
+- [Data Classification](https://www.komprise.com/use-cases/data-classification/)
+- [Sensitive Data Management](https://www.komprise.com/use-cases/sensitive-data-management/)
+- [Ransomware Protection](https://www.komprise.com/use-cases/ransomware-protection/)
+- [AI Data Ingestion](https://www.komprise.com/use-cases/ai-data-ingestion/)
+
+## Use Cases
+- [Analyze Unstructured Data](https://www.komprise.com/use-cases/analyze-unstructured-data/)
+- [Cloud Tiering and Archiving](https://www.komprise.com/use-cases/cloud-tiering/)
+- [Cloud File Migration](https://www.komprise.com/product/cloud-migration/)
+- [Data Lakehouse Integration] (https://www.komprise.com/product/transparent-file-tables/)
+- [Intelligent Tiering] (https://www.komprise.com/use-cases/intelligent-data-tiering/)
+- [Migrate NAS and Object Data](https://www.komprise.com/use-cases/migrate-nas-and-object-data/)
+- [Optimize Cloud Data](https://www.komprise.com/use-cases/optimize-cloud-data/)
+- [Reclaim Storage Capacity] (https://www.komprise.com/use-cases/flash-stretch/)
+- [Storage Refresh Assessment](https://www.komprise.com/use-cases/storage-refresh/)
+
+## Industries
+- [Engineering & Semiconductors](https://www.komprise.com/industries/engineering-semiconductor/)
+- [Financial Services](https://www.komprise.com/industries/financial-services/)
+- [Hospitals & Healthcare Systems](https://www.komprise.com/industries/hospitals-healthcare/)
+- [Life Sciences & Genomics](https://www.komprise.com/industries/life-sciences-and-genomics/)
+- [Higher Education](https://www.komprise.com/industries/education/)
+- [Legal Services](https://www.komprise.com/industries/legal-services/)
+- [Media & Entertainment](https://www.komprise.com/industries/media-entertainment/)
+- [Oil & Gas](https://www.komprise.com/industries/oil-gas/)
+- [Public Sector](https://www.komprise.com/industries/public-sector/)
+
+
+## Technology Partners
+- [AWS](https://www.komprise.com/partners/amazon-web-services/)
+- [Cloudian](https://www.komprise.com/partners/cloudian/)
+- [Google Cloud Platform](https://www.komprise.com/partners/google-cloud-platform/)
+- [HPE](https://www.komprise.com/partners/hewlett-packard-enterprise/)
+- [IBM](https://www.komprise.com/partners/ibm/)
+- [Microsoft Azure](https://www.komprise.com/partners/microsoft-azure/)
+- [NetApp](https://www.komprise.com/partners/netapp/)
+- [Nutanix](https://www.komprise.com/partners/nutanix/)
+- [NVIDIA] (https://www.komprise.com/partners/nvidia/)
+- [Pure Storage](https://www.komprise.com/partners/pure-storage/)
+- [Qumulo](https://www.komprise.com/partners/qumulo/)
+- [Scality](https://www.komprise.com/partners/scality/)
+- [Suse] (https://www.komprise.com/partners/suse/)
+- [VAST Data](https://www.komprise.com/partners/vast-data/)
+- [Wasabi](https://www.komprise.com/partners/wasabi/)
+
+## Resellers
+- [Konnect Partner Program](https://www.komprise.com/partners/)
+- [Konnect Deal Registration](https://www.komprise.com/deal-registration/)
+- [Komprise Technical Professional](https://www.komprise.com/komprise-technical-professional/)
+
+
+## Resources
+- [Resource Center](https://www.komprise.com/resource/)
+- [Best Practices] (https://www.komprise.com/type/best-practices/)
+- [Case Studies](https://www.komprise.com/type/case-study/)
+- [Glossary of Terms](https://www.komprise.com/glossary_of_terms/)
+- [Glossary Index](https://www.komprise.com/glossary-sitemap/): AI and data management term definitions
+- [Komprise FAQs] (https://www.komprise.com/resources/faqs/)
+- [Podcasts](https://www.komprise.com/type/podcast/)
+- [Reports & Infographics](https://www.komprise.com/type/reports-infographics/)
+- [Solution Briefs](https://www.komprise.com/type/solution-briefs/)
+- [TechKrunch](https://www.komprise.com/techkrunch/)
+- [Videos](https://www.komprise.com/type/videos/)
+- [Webinars](https://www.komprise.com/type/webinars/)
+- [White Papers](https://www.komprise.com/type/white-papers/)
+        			
+## Guides
+- [AI Data Prep](https://www.komprise.com/guides/ai-data-preparation-guide/)
+- [Data Migration](https://www.komprise.com/guides/data-migration-guide/)
+- [Data Tiering](https://www.komprise.com/guides/data-tiering-guide/)
+- [Path to Cloud] (https://www.komprise.com/path-to-the-cloud/)
+
+## Company
+- [About](https://www.komprise.com/about-us/)
+- [Awards & Recognition](https://www.komprise.com/about-us/recognition/)
+- [Blog](https://www.komprise.com/blog/)
+- [Careers](https://www.komprise.com/careers/)
+- [Contact](https://www.komprise.com/contact/)
+- [Events](https://www.komprise.com/events/)
+- [Latest News](https://www.komprise.com/category/in-the-news/)
+- [Press Releases](https://www.komprise.com/category/press-releases/)
+- [Support](https://www.komprise.com/support/)
+- [Training](https://www.komprise.com/komprise-technical-professional/)
+
+## Support
+- [Contact Us](https://www.komprise.com/contact/)
+- [Customer Support](https://www.komprise.com/support/)
+
+## Privacy
+[Privacy](https://www.komprise.com/privacy/)
+
+## Cookies
+[Cookies](https://www.komprise.com/privacy/#cookies)
+
+## Sitemap
+https://www.komprise.com/post-sitemap.xml
+https://www.komprise.com/post-sitemap2.xml
+https://www.komprise.com/page-sitemap.xml
+https://www.komprise.com/job_listing-sitemap.xml
+https://www.komprise.com/resource-sitemap.xml
+https://www.komprise.com/glossary_terms-sitemap.xml
+https://www.komprise.com/event-sitemap.xml
+https://www.komprise.com/glossary_categories-sitemap.xml
+https://www.komprise.com/event_type-sitemap.xml
+
+
+## Bot Access Policy
+
+Komprise's preferences for AI/LLM access, training, and content usage:
+
+- **User-agent: gptbot**  
+  Allow-Training: yes  
+  Allow-Retrieval: yes  
+
+- **User-agent: claudebot**  
+  Allow-Training: yes  
+  Allow-Retrieval: yes  
+
+- **User-agent: google-extended**  
+  Allow-Training: yes  
+  Allow-Retrieval: yes  
+
+- **User-agent: perplexitybot**  
+  Allow-Training: yes  
+  Allow-Retrieval: yes  
+
+- **User-agent: neevabot**  
+  Allow-Training: yes  
+  Allow-Retrieval: yes  
+
+- **User-agent: youbot**  
+  Allow-Training: yes  
+  Allow-Retrieval: yes  
+
+- **User-agent: ccbot** (Common Crawl)  
+  Allow-Training: yes  
+  Allow-Retrieval: yes  
+
+- **User-agent: duckduckbot** (DuckDuckGo AI)  
+  Allow-Training: yes  
+  Allow-Retrieval: yes  
+
+- **User-agent: yandexbot**  
+  Allow-Training: yes  
+  Allow-Retrieval: yes  
+
+- **User-agent: archive.org_bot**  
+  Allow-Training: yes  
+  Allow-Retrieval: yes  
+
+### Default Rule for Unspecified or Future Bots
+
+- **User-agent: \***  
+  Allow-Training: yes  
+  Allow-Retrieval: yes 
+  
+## Metadata
+- **Last Updated**: 2026-07-16 05:40:25

@@ -1,0 +1,46 @@
+generated: '2026-07-19'
+method: searched
+source: live HTTPS probes of the Komprise public hosts
+notes: >-
+  Komprise publishes no /.well-known/ discovery surface. The marketing host returns 404 for every
+  probed path. The documentation host docs.komprise.com is authentication-gated and 302-redirects
+  every path (including /.well-known/*) to https://docs.komprise.com/user/login, so its 200 responses
+  after redirect are the login page, not discovery documents. Recorded as not-published rather than
+  as hits. A real llms.txt IS published on the marketing host and is captured verbatim at
+  llms/komprise-llms.txt.
+hosts:
+- host: https://www.komprise.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+  - path: /.well-known/openid-configuration
+    status: 404
+  - path: /.well-known/oauth-authorization-server
+    status: 404
+  - path: /.well-known/api-catalog
+    status: 404
+  - path: /.well-known/ai-plugin.json
+    status: 404
+  - path: /llms.txt
+    status: 200
+    file: ../llms/komprise-llms.txt
+  - path: /robots.txt
+    status: 200
+- host: https://docs.komprise.com
+  auth_gated: true
+  documents:
+  - path: /.well-known/security.txt
+    status: 302
+    redirect: https://docs.komprise.com/user/login
+  - path: /.well-known/openid-configuration
+    status: 302
+    redirect: https://docs.komprise.com/user/login
+  - path: /.well-known/oauth-authorization-server
+    status: 302
+    redirect: https://docs.komprise.com/user/login
+  - path: /.well-known/api-catalog
+    status: 302
+    redirect: https://docs.komprise.com/user/login
+  - path: /.well-known/ai-plugin.json
+    status: 302
+    redirect: https://docs.komprise.com/user/login
